@@ -1,0 +1,5 @@
+*.ipynb*
+__pycache__
+*.log
+pre_plots/
+post_plots/
